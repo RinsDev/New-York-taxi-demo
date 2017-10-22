@@ -3,12 +3,11 @@ channels:
 - defaults
 dependencies:
 - python=2.7
-- holoviews=1.8.3
-- matplotlib=2.1.0
-- numpy=1.13.3
-- pandas=0.20.3
-- param=1.5.1
-- seaborn=0.8.0
+- holoviews
+- matplotlib
+- numpy
+- pandas
+- param
+- seaborn
 - pip:
-  - paramnb==2.0.2
-
+  - paramnb
