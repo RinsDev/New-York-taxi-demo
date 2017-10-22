@@ -10,4 +10,4 @@ dependencies:
 - param
 - seaborn
 - pip:
-  - paramnb
+  - git+https://github.com/ioam/paramnb#egg=paramnb[complete]
