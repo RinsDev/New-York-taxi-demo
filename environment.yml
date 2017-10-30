@@ -1,4 +1,4 @@
-name: py34_ml
+name: py27_ml
 channels:
 - defaults
 dependencies:
