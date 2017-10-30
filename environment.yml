@@ -2,12 +2,12 @@ name: py34_ml
 channels:
 - defaults
 dependencies:
-  - bokeh=0.12.4
-  - python=3.6
-  - pandas=0.19.2
-  - matplotlib=2.0.0
-  - holoviews
-  - param=1.4.2
+  - bokeh=0.12.9=py27ha8aa98e_0
+  - python=2.7
+  - pandas=0.19.2=np112py27_1
+  - matplotlib=2.0.0=np112py27_0
+  - holoviews=1.8.4=py27h5d6a55f_0
+  - param=1.5.1=py27_0
   - pip:
     - git+https://github.com/ioam/paramnb#egg=paramnb[complete]
 
