@@ -5,7 +5,6 @@ dependencies:
   - python=3.4
   - holoviews=1.6.2=py34_0
   - param=1.4.2=py34_0
-  - seaborn=0.7.1=py34_0
   - pip:
     - git+https://github.com/ioam/paramnb#egg=paramnb[complete]
 
