@@ -6,7 +6,7 @@ dependencies:
   - python=3.6
   - pandas=0.19.2
   - matplotlib=2.0.0
-  - holoviews=1.6.2
+  - holoviews
   - param=1.4.2
   - pip:
     - git+https://github.com/ioam/paramnb#egg=paramnb[complete]
